@@ -1,3 +1,5 @@
+This is a collection of lessons for the course "Basic statistical analysis of Astronomical observations". See syllabus below...
+
 # Basic statistical analysis of Astronomical observations #
 
 ## Course description and objectives ##
