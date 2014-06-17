@@ -30,17 +30,18 @@ Class consists of series of projects (every two weeks) with one final project (3
 
 At the beginning of each project a lecture will be provided (or video, in case of online teaching), which will cover theory and new concepts. Then students will be required to follow the step-by-step instructions, which will help them to complete a significant amount of the project. Some part of the project will be left for their own research and only references to public resources will be provided, in order to facilitate self learning.
 
-| Week | Projects’ description |
-|-|-|
-|1| Introduction to Python and overview of other commonly used programming languages in astrophysics for statistical analysis: IDL, MatLab, R. No particular task.|
-|-|-|
-| 2-3 | 1. Table data structures. Reading plain data from text files. 2. Using classic method of detecting Hubble expansion from Supernovas as an example. 3. Fitting theoretical predictions in order to match and estimate the errors. |
-|-|-|
+| Week | Project description                                                                                                                                            |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Introduction to Python and overview of other commonly used programming languages in astrophysics for statistical analysis: IDL, MatLab, R. No particular task. |
+| 2-3  | 1. Table data structures. Reading plain data from text files.                                                                                                  |
+|      | 2. Using classic method of detecting Hubble expansion from Supernovas as an example.                                                                           |
+|      | 3. Fitting theoretical predictions in order to match and estimate the errors.                                                                                  |
+| 4-5  | FITC data format. Working with modules in Python. Installing pyfitc. Working with 2D data.                                                                     |
+|      | Using HI survey as a detection of Galaxy rotation curve.                                                                                                       |
+|      | Comparing the observed curve with naïve estimations.                                                                                                           |
+|      |                           
 
 4-5
-FITC data format. Working with modules in Python. Installing pyfitc. Working with 2D data.
-Using HI survey as a detection of Galaxy rotation curve.
-Comparing the observed curve with naïve estimations.
 6-7
 Healpix format. Installing healpy. Working with data projected on a sphere.
 Using CMB survey as an example. 
